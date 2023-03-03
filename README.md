@@ -14,6 +14,7 @@ Gerenet Technology.
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
   <div>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/177131156028784640)/
