@@ -3,8 +3,8 @@
 ### Eu sou Yan , I am Yan 😎 👋
 Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
 Gerenet Tecnologia.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🔭 Desenvolvimento Web - FullStack / Back-End 
+- 🌱 Apaixonado por tecnologia e programação em específico!
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&thme=radical' height='200px'>
