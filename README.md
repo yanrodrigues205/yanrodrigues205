@@ -10,6 +10,7 @@ Gerenet Technology.
 - 🤝 Atualmente estudando aprendizado de máquinas(Machine Learning), buscando evoulução constante. - Currently studying Machine Learning, seeking constant evolution.
 ### - Copyright Software and Websites
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>View</a>
+  Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>View</a>
   <div>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'>
 </div>
