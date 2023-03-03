@@ -7,7 +7,7 @@ Gerenet Tecnologia.
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&thme=radical' height='300px'>
+<img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&thme=radical' height='200px'>
 </div>
 
 
