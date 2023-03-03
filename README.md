@@ -1,5 +1,5 @@
 <body bgcolor='black'>
-<img src="https://pibprudente.org.br/sistema/img1/logo.png">
+<img src="https://pibprudente.org.br/sistema/img1/logo.png" width='60px' height='60px'>
 
 ### Eu sou Yan , I am Yan 😎 👋
 Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
