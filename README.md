@@ -12,6 +12,7 @@ Gerenet Technology.
   ### - Copyright Software and Websites
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
+  <center>
   <div>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px'>
@@ -19,5 +20,6 @@ Gerenet Technology.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yan-pablo-rodrigues-54a661226/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_yancode_/) 
+  </center>
   
 
