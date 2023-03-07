@@ -18,8 +18,9 @@ Gerenet Technology.
 </div>
   <br><hr>
   
-  ## Minhas Habilidades - My Skills 🤖
-  <div class='langs'>
+
+  <div class='langs'style='display: flex; justify-content:center;margin 0 auto;'>
+      ## Minhas Habilidades - My Skills 🤖
  <img alt='Yan Linguagem de Marcação HTML' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' class='language marc-html'>
  <img alt='Yan Linguagem de Estilização CSS' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' class='language marc-html'>
  <img alt='Yan Linguagem PHP'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg' class='language php'>
