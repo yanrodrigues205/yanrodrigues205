@@ -13,7 +13,7 @@ Gerenet Technology.
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
 
-  <div>
+  <div style='display:inline-block;'>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px' >
 </div>
 
