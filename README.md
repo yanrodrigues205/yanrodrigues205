@@ -1,7 +1,7 @@
 <body bgcolor='black'>
 <img src="https://pibprudente.org.br/sistema/img1/logo.png" width='80px' height='80px'>
 
-### Eu sou Yan , I am Yan 😎 👨🏼‍💻 <img src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='60px'> <hr>
+### Eu sou Yan , I am Yan 😎 👨🏼‍💻  <hr>
 Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
 Gerenet Tecnologia. - I'm studying Technology in System Analysis and Development at Fatec, I'm currently 18 years old and I'm interning with the team
 Gerenet Technology.
@@ -12,7 +12,11 @@ Gerenet Technology.
   ### - Copyright Software and Websites
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
-
+  
+  <div class='gif'>
+  <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?       cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'>
+  </div>
+  
 <div style='display:inline-block;'>
   <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px' width='350px' >
 </div>
