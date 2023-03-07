@@ -16,7 +16,9 @@ Gerenet Technology.
 <div style='display:inline-block;'>
   <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px' >
 </div>
+  <br><hr>
   
+  ## Minhas Habilidades - My Skills
   <div class='langs'>
      <img alt='Yan Linguagem JavaScript'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' class='language js'>
      <img alt='Yan Linguagem PHP'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg' class='language php'>
