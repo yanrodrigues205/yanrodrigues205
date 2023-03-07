@@ -18,9 +18,9 @@ Gerenet Technology.
 </div>
   
   <div class='langs'>
-     <img alt='Yan Linguagem JavaScript'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' class='language js'>
-     <img alt='Yan Linguagem PHP' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg' class='language php'>
-     <img alt='Yan Linguagem JavaScript' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' class='language js'>
+     <img alt='Yan Linguagem JavaScript' style='margin:10px;' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' class='language js'>
+     <img alt='Yan Linguagem PHP' style='margin:10px;' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg' class='language php'>
+     <img alt='Yan Linguagem JavaScript' style='margin:10px;' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' class='language js'>
   </div>
 
 
