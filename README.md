@@ -15,7 +15,7 @@ Gerenet Technology.
 
   <div>
 <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&show_icons=true&theme=radical' height='200px'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=compact&show_icons=true&theme=radical' height='200px' width='100px'>
 </div>
 
 
