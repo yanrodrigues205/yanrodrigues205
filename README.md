@@ -3,8 +3,8 @@
 
 ### Eu sou Yan , I am Yan 😎 👨🏼‍💻  <hr>
 Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
-Gerenet Tecnologia. - I'm studying Technology in System Analysis and Development at Fatec, I'm currently 18 years old and I'm interning with the team
-Gerenet Technology.
+Gere Tecnologia. - I'm studying Technology in System Analysis and Development at Fatec, I'm currently 18 years old and I'm interning with the team
+Gere Technology.
 - 💻 Desenvolvimento Web PHP - FullStack / Back-End - PHP Web Development
 - ♟️ Apaixonado por tecnologia e programação em específico! - Passionate about technology and programming in particular!
 - 🤝 Atualmente estudando aprendizado de máquinas(Machine Learning), buscando evoulução constante. - Currently studying Machine Learning, seeking constant evolution.
