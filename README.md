@@ -1,7 +1,7 @@
 <body bgcolor='black'>
 <img src="https://pibprudente.org.br/sistema/img1/logo.png" width='80px' height='80px'>
 
-### Eu sou Yan , I am Yan 😎 👨🏼‍💻  <hr>
+### Eu sou Yan , I am Yan 😎 👨🏼‍💻 <hr>
 Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
 Gere Tecnologia. - I'm studying Technology in System Analysis and Development at Fatec, I'm currently 18 years old and I'm interning with the team
 Gere Technology.
