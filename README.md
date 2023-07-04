@@ -44,7 +44,7 @@ class Yan
  <img alt='Yan Linguagem JavaScript'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg'      class='language js'>
      <img alt='Yan Framework React' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' class='language     React'>
  <img alt='Yan Linguagem Python' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' class='language     python'>
-    <img src="https://skillicons.dev/icons?i=c#,bootstrap,nodejs,git,mysql" alt='bootstrap, node.js, git e mysql' class='language eestante' >
+    <img src="https://skillicons.dev/icons?i=csharp,bootstrap,nodejs,git,mysql" alt='bootstrap, node.js, git e mysql' class='language eestante' >
     
 
 
