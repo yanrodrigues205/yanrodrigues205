@@ -54,7 +54,7 @@ class Yan
 
   </div>
  <div align='center'>
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yan-pablo-rodrigues-54a661226/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__yan_rodrigues/)
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href=`https://www.linkedin.com/in/yan-pablo-rodrigues-54a661226` /> <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href=`https://www.instagram.com/__yan_rodrigues/`>
  </div>
   
 
