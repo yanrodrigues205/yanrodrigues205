@@ -36,7 +36,7 @@ class Yan
 
   
   
-  ## Minhas Habilidades - My Skills 🤖   
+  ## My Skills 🤖   
   <div class='langs'>
  <img alt='Yan Linguagem de Marcação HTML' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' class='language marc-html'>
  <img alt='Yan Linguagem de Estilização CSS' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' class='language marc-html'>
@@ -53,7 +53,7 @@ class Yan
 
 
   <br><hr>
-  ## Redes Sociais - Social Media 📱 
+  ##Social Media 📱 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yan-pablo-rodrigues-54a661226/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__yan_rodrigues/) 
 
   
