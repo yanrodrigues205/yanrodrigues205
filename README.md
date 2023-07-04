@@ -21,9 +21,10 @@ class Yan
 
 ```
   ### - Copyright Software and Websites
+  <center>
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
-  
+  </center>
   <div class='gif'>
   <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'>
   </div>
