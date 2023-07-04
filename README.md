@@ -1,21 +1,21 @@
 <body bgcolor='black'>
 <img src="https://pibprudente.org.br/sistema/img1/logo.png" width='80px' height='80px'>
 
-### Eu sou Yan , I am Yan 😎 👨🏼‍💻 <hr>
-Estou cursando Tecnólogo em  Análise e Desenvolvimento de Sistema na Fatec, tenho atualmente 18 anos e estou estagiando com a equipe
-Gere Tecnologia. - I'm studying Technology in System Analysis and Development at Fatec, I'm currently 18 years old and I'm interning with the team
-Gere Technology.
-- 💻 Desenvolvimento Web PHP - FullStack / Back-End - PHP Web Development
-- ♟️ Apaixonado por tecnologia e programação em específico! - Passionate about technology and programming in particular!
-- 🤝 Atualmente estudando aprendizado de máquinas(Machine Learning), buscando evoulução constante. - Currently studying Machine Learning, seeking constant evolution.
 ```php
-class Yan
+namespace mylife;
+
+class Yan 
 {
-  public $full_name;
-  public $age;
+  private $full_name;
+  private $age;
+  private $location;
+  private $formation;
 
-  public __construct(){
-
+  public function __construct(){
+    $this->full_name = "Yan Pablo Rodrigues";
+    $this->age = "18";
+    $this->location = "Presidente Prudente | São Paulo - Brazil";
+    $this->formation = "2/3 Systems Analysis and Development Technologist - FATEC";
   }
 }
 
