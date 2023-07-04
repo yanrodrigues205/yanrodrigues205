@@ -21,7 +21,7 @@ class Yan
 
 ```
   ### - Copyright Software and Websites
-  <div style="margin: 0 auto; display: flex;">
+  <div style="align-items:center;text-align: center;margin: 0 auto; display: flex;">
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a>
   </div>
