@@ -40,7 +40,6 @@ class Yan
 
   
   
-  ## My Skills 🤖   
   <div class='langs' align='center'>
  <img alt='Yan Linguagem de Marcação HTML' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' class='language marc-html'>
  <img alt='Yan Linguagem de Estilização CSS' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' class='language marc-html'>
@@ -48,7 +47,7 @@ class Yan
  <img alt='Yan Linguagem JavaScript'  aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg'      class='language js'>
      <img alt='Yan Framework React' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' class='language     React'>
  <img alt='Yan Linguagem Python' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' class='language     python'>
-    <img src="https://skillicons.dev/icons?i=csharp,bootstrap,nodejs,git,mysql" alt='bootstrap, node.js, git e mysql' class='language eestante' >
+    <img src="https://skillicons.dev/icons?i=cs,bootstrap,nodejs,git,mysql" alt='bootstrap, node.js, git e mysql' class='language eestante' >
     
 
 
