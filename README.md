@@ -1,5 +1,4 @@
 <body bgcolor='black'>
-<img src="https://pibprudente.org.br/sistema/img1/logo.png" width='80px' height='80px'>
 
 ```php
 namespace my_git;
