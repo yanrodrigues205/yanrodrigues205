@@ -25,7 +25,7 @@
   
 <div align="center">
   <hr>
-  <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&theme=radical&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=donut&theme=blue_green' height='190px' width='350px' >
+  <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&theme=radical&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=donut&theme=blue-green' height='190px' width='350px' >
 </div>
   <br><hr>
 
