@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a31a&size=45&center=true&vCenter=true&width=1000&lines=WHO+IS+YAN+?+;PHP+AND+JAVASCRIPT+DEVELOPER+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=0b751a&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   <div align="center">
-    👽<br>
+ 
     <img src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" width="75%">
   </div>
   
@@ -31,13 +31,16 @@
 
 
   <div align="center">
+       👽<br>
   Copyright Software and Websites <br>
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
   Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
   
   </div>
- 
+<div align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=0b751a&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
   
 <div align="center">
   <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'><hr>
