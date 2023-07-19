@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a31a&size=45&center=true&vCenter=true&width=1000&lines=WHO+IS+YAN+?+;PHP+AND+JAVASCRIPT+DEVELOPER+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=b13583&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
     👽<br>
