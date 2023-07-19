@@ -3,7 +3,7 @@
 
 
   <div align="center">
-    <img src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" width="75%">
+    <img src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" width="75%">
   </div>
   
   ```php
@@ -29,7 +29,7 @@
  
 
 
-  <div align="center">
+  <div align="center" style="color: green">
        👽<br>
   Copyright Software and Websites <br>
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
