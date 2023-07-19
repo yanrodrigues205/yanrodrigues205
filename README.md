@@ -21,7 +21,7 @@ class Yan
 
 ```
 
-   ### Copyright Software and Websites 
+   <a align="center">### Copyright Software and Websites </>
 
   <div align="center">
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
