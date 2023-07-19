@@ -3,7 +3,6 @@
 
 
   <div align="center">
- 
     <img src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" width="75%">
   </div>
   
