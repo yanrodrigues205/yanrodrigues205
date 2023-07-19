@@ -6,26 +6,7 @@
     <img src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" width="100%">
   </div>
 
-  ```php
-  namespace my_git;
-  
-  class Yan 
-  {
-    private $full_name;
-    private $age;
-    private $location;
-    private $formation;
-  
-    public function __construct(){
-      $this->full_name = "Yan Pablo Rodrigues";
-      $this->age = "18";
-      $this->location = "Presidente Prudente | São Paulo - Brazil";
-      $this->formation = "2/3 Systems Analysis and Development Technologist - FATEC";
-    }
-  }
-  
-  
-  ```
+
  
 
 
