@@ -11,12 +11,13 @@
 
 
   <div align="center" style="color: green">
+  ```dif
        👽<br>
   + Copyright Software and Websites <br>
   + Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   + Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
   + Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
-  
+  ```
   </div>
   <hr>
 
