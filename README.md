@@ -8,18 +8,18 @@
 
 
  
+  <div align="center">
 
 
-  <div align="center" style="color: green">
-  ```dif
+  ```html
        👽<br>
-  + Copyright Software and Websites <br>
-  + Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
-  + Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
-  + Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
+   Copyright Software and Websites <br>
+   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
+   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
+   Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
   ```
   </div>
-  <hr>
+  
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=0b751a&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
