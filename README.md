@@ -52,7 +52,7 @@
  <img alt='Yan Linguagem Python' aling='center' width='40' heigth='40' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' class='language     python'>
     <img src="https://skillicons.dev/icons?i=linux,cs,bootstrap,nodejs,git,mysql" alt='bootstrap, node.js, git e mysql' class='language eestante' >
     
-
+  <hr>
 
 
   </div>
@@ -63,5 +63,5 @@
  </div>
   
 
-  <hr>
+
 
