@@ -33,11 +33,10 @@
   Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
   
   </div>
-  <div class='gif'>
-  <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'>
-  </div>
+ 
   
-<div style='display:inline-block;'>
+<div align="center">
+  <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'><hr>
   <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&theme=radical&show_icons=true' height='200px' width='450px'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=donut&theme=radical' height='190px' width='350px' >
 </div>
   <br><hr>
