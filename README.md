@@ -37,9 +37,9 @@
   Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
   
   </div>
-<div align="center">
+
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yanrodrigues205&bg_color=0d1117&color=0b751a&line=02a31a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
   
 <div align="center">
   <img alt='gif skateboard yan' src='https://media1.giphy.com/media/chatrE0tPeC4zM9OjD/giphy.gif?cid=6c09b9528e74b86e0dc2e546f00641ebde3ad7bfd5c9235a&rid=giphy.gif&ct=s' width='60px' heght='100px'><hr>
