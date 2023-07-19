@@ -1,4 +1,6 @@
-<body bgcolor='black'>
+
+
+<img src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" width="75%">
 
 ```php
 namespace my_git;
