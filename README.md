@@ -55,7 +55,7 @@ class Yan
   </div>
  <div align='center'>
    <br>
-     <a href="mailto:zatch73@duck.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+     <a href="mailto:yan.pablo205@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href=`https://www.linkedin.com/in/yan-pablo-rodrigues-54a661226` /> <img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href=`https://www.instagram.com/__yan_rodrigues/`>
  </div>
   
