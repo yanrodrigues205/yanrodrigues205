@@ -1,4 +1,4 @@
- ## WHO IS YAN?? 🥷
+ ## WHO IS YAN?? 👽
   <div align="center">
     <img src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" width="75%">
   </div>
@@ -23,11 +23,11 @@
   
   
   ```
-  ### Copyright Software and Websites 
+ 
 
 
   <div align="center">
-    
+  Copyright Software and Websites <br>
   Arena Security - <a href='https://www.arenaseguranca.com.br/' target='blank'>🛡️View</a><br>
   Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
   Wany Plataform - <a href='https://wany.com.br' target='blank'>👻View</a>
