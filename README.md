@@ -1,11 +1,11 @@
 
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a31a&size=45&center=true&vCenter=true&width=1000&lines=WHO+IS+YAN+?+;PHP+AND+JAVASCRIPT+DEVELOPER+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">
     <img src="https://i.pinimg.com/originals/15/19/95/15199572cf0639288f135adab038a523.gif" width="100%">
   </div>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a31a&size=45&center=true&vCenter=true&width=1000&lines=WHO+IS+YAN+?+;PHP+AND+JAVASCRIPT+DEVELOPER+:%29)](https://git.io/typing-svg)
+
   ```php
   namespace my_git;
   
