@@ -3,7 +3,7 @@
 
 
   <div align="center">
-    <img src="https://media.tenor.com/Dx4LgTOvOr4AAAAC/pixel-art-fast.gif" width="100%">
+    <img src="https://wallpapercave.com/wp/wp11704456.gif" width="100%">
   </div>
 
 
