@@ -25,6 +25,13 @@
 <div align="center">
   <hr>
   <img src='https://github-readme-stats.vercel.app/api?username=yanrodrigues205&theme=blue-green&show_icons=true' height='200px' width='45%' style='background: transparent'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src='https://github-readme-stats.vercel.app/api/top-langs/?username=yanrodrigues205&layout=donut&theme=blue-green' height='190px' width='45%' >
+
+  <a href="https://github.com/yanrodrigues205/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/yanrodrigues205/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/yanrodrigues205/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 </div>
   <br><hr>
 
