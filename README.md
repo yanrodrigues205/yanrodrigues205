@@ -9,12 +9,7 @@
 
  
  
-<div align="center">
 
-  Copyright Software and Websites <br>
-  Baptist Church - <a href='https://pibprudente.org.br/sistema/' target='blank'>✨View</a><br>
-
-  </div>
 
   
 
