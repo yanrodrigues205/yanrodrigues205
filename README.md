@@ -10,6 +10,24 @@
 
   <br><hr>
   </div>
+<div align='center'>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Grid Snake Animation"
+      src="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+<br><hr>
   
  <div align='center'>
    <p align='center'>
@@ -19,11 +37,7 @@
    </p>
  </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yanrodrigues205/yanrodrigues205/output/github-contribution-grid-snake.svg">
-</picture>
+
   
 
 
